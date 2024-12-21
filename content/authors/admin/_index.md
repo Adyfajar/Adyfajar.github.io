@@ -2,9 +2,6 @@
 # Display name
 title: adi dajar saputra
 
-# Name pronunciation (optional)
-name_pronunciation: Software Engineering Student 
-
 # Full name (for SEO)
 first_name: adi fajar
 last_name: saputra
@@ -20,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Software Engineering Student
+role: Software Engineering Student | Digital Creator
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
