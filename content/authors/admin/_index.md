@@ -3,15 +3,15 @@
 title: adi dajar saputra
 
 # Name pronunciation (optional)
-Software Engineering Student 
+name_pronunciation: Software Engineering Student 
 
 # Full name (for SEO)
-first_name: adi fajar 
+first_name: adi fajar
 last_name: saputra
 
 # Status emoji
 status:
-  icon: 🤖
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Software Engineering Student 
+role: Software Engineering Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -38,7 +38,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/adyfajar
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/adi-fajar-saputra
+    url: https://www.linkedin.com/adi-fajar-saputra
 
 interests:
   - Software Develpment
@@ -65,7 +65,7 @@ education:
       Courses included:
       - Fullstack Web development
       - Database System
-    
+
 work:
   - position: production operators
     company_name: Pt.Fukuryu Indonesia
@@ -78,7 +78,6 @@ work:
       - making production
       - maintain product quality
       - follow the company's SOP
-
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -120,7 +119,6 @@ languages:
   - name: indonesia
     percent: 100
 
-
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
@@ -139,4 +137,3 @@ languages:
 ## About Me
 
 Hi..., I am adi fajar saputra I am an active student with an interest in technology, education and tourism development. I believe I am capable of making changes and collaborating to make good changes.
-
