@@ -65,7 +65,6 @@ education:
       Courses included:
       - Fullstack Web development
       - Database System
-
 work:
   - position: production operators
     company_name: Pt.Fukuryu Indonesia
@@ -78,6 +77,7 @@ work:
       - making production
       - maintain product quality
       - follow the company's SOP
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -120,9 +120,9 @@ languages:
     percent: 100
 
 # Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+# Add/remove as many awards below as you like.
+# Only `title`, `awarder`, and `date` are required.
+# Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 # awards:
 #  - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
@@ -135,5 +135,4 @@ languages:
 ---
 
 ## About Me
-
 Hi..., I am adi fajar saputra I am an active student with an interest in technology, education and tourism development. I believe I am capable of making changes and collaborating to make good changes.
