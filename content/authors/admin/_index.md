@@ -58,7 +58,7 @@ education:
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: "2022-13-13"
-    date_end: "2022-13-13"
+    date_end: "2026-13-13"
     summary: |
       GPA: 3.8/4.0
 
