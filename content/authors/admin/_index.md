@@ -57,8 +57,8 @@ education:
       url: 'https://example.com'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
-    date_start: "2022"
-    date_end: "2023"
+    date_start: "2022-01-01"
+    date_end: ''
     summary: |
       GPA: 3.8/4.0
 
