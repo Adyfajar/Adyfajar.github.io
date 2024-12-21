@@ -48,8 +48,8 @@ interests:
 education:
   - area: Bachelor of Science in Software Engineering
     institution: Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang
-    date_start: '2022'
-    date_end: '2026'
+    date_start: "2022-11-12"
+    date_end: "2022-11-12"
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
