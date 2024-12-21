@@ -70,7 +70,7 @@ work:
     company_name: Pt.Fukuryu Indonesia
     company_url: ''
     company_logo: ''
-    date_start: 2022-08-08
+    date_start: "2022-08-08"
     date_end: ''
     summary: |2-
       Responsibilities include:
