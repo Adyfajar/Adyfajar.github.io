@@ -17,11 +17,10 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: phyton learning module for beginners
-with basic material that is clear and easy to learn.
+abstract: phyton learning module for beginners with basic material that is clear and easy to learn.
+
 # Summary. An optional shortened abstract.
-summary: phyton learning module for beginners
-with basic material that is clear and easy to learn.
+summary: phyton learning module for beginners with basic material that is clear and easy to learn.
 tags:
 - Programing
 
