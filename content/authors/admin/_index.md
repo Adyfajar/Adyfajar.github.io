@@ -101,6 +101,8 @@ languages:
     percent: 30
   - name: indonesia
     percent: 100
-    
+
+---
+
 ## About Me
 Hi..., I am adi fajar saputra I am an active student with an interest in technology, education and tourism development. I believe I am capable of making changes and collaborating to make good changes.
