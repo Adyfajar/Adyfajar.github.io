@@ -8,7 +8,7 @@ last_name: saputra
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🤖
 
 # Is this the primary user of the site?
 superuser: true
@@ -64,7 +64,7 @@ education:
       - Database System
 work:
   - position: production operators
-    company_name: Pt.Fukuryu Indonesia
+    company_name: Pt.Fukuryo Indonesia
     company_url: ''
     company_logo: ''
     date_start: "2022-08-08"
