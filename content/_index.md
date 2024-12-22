@@ -37,7 +37,6 @@ sections:
       text: |-
         I am actively involved in the development of new innovations, Here are some of my main focuses:
 
-        - development of applications to support the export of domestic umkm products 
         - Developing Python learning modules that have been registered in Haki
         - Currently I am creating a business Application development to support the export of domestic umkm     products 
     design:
