@@ -2,6 +2,12 @@
 title: "pyhton learning modules"
 authors:
 - admin
+- Adi Fajar Saputra
+- Nurul Huda, S.Kom., M.Kom.
+- Maulany Citra Pandini
+- Latania Zhafira
+- Davit Setyawan
+- M. Yanfaunnas
 date: "2023-05-07T00:00:00Z"
 doi: ""
 
@@ -11,37 +17,26 @@ publishDate: "2023-05-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
-
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Basic Python Programming Module"
 publication_short: ""
 
-abstract: phyton learning module for beginners with basic material that is clear and easy to learn.
+abstract: modul pembelajaran phyton untuk pemula dengan materi dasar yang jelas dan mudah dipelajari.
 
 # Summary. An optional shortened abstract.
-summary: phyton learning module for beginners with basic material that is clear and easy to learn.
+summary: Modul pembelajaran phyton untuk pemula dengan materi dasar yang jelas dan mudah dipelajari.
 tags:
 - Programing
 
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](image/python.jpg)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
