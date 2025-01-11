@@ -2,7 +2,6 @@
 title: "pyhton learning modules"
 authors:
 - admin
-- Adi Fajar Saputra
 - Nurul Huda, S.Kom., M.Kom.
 - Maulany Citra Pandini
 - Latania Zhafira
@@ -20,6 +19,7 @@ publishDate: "2023-05-01T00:00:00Z"
 # Publication name and optional abbreviated publication name.
 publication: "Basic Python Programming Module"
 publication_short: ""
+publication_types: ["HAKI"]
 
 abstract: modul pembelajaran phyton untuk pemula dengan materi dasar yang jelas dan mudah dipelajari.
 

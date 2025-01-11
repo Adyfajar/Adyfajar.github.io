@@ -6,7 +6,6 @@ title: 'Perancangan Aplikasi Laundry-in untuk Pelayanan Pelanggan Berbasis Andro
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Adi Fajar
   - Maulani Citra Pandini
   - Davit Setyawan
   - Latania Zhafira
@@ -29,13 +28,13 @@ publishDate: '2023-06-01T00:00:00Z'
 publication_types: ['PKM-Project']
 
 # Publication name and optional abbreviated publication name.
-publication: In *laundry-in Mobile Aplication*
+publication: laundry-in Mobile Aplication
 publication_short: ""
 
 abstract: laundry-in merupakan aplikasi berbasis mobile dengan menyediakan layanan laundry inovatif, dengan memanfaatkan perkembangan teknologi, aplikasi ini bertujuan untuk mempermudah pelanggan dalam menggunakan jasa laundry.
 
 # Summary. An optional shortened abstract.
-summary: wash-wush merupakan aplikasi berbasis mobile dengan menyediakan layanan laundry inovatif.
+summary: laundry-in merupakan aplikasi berbasis mobile dengan menyediakan layanan laundry inovatif.
 tags:
   - Teknologi Innovation  
   - Mobile Aplication
@@ -47,7 +46,6 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: http://example.org
 
 url_pdf: 'https://docs.google.com/document/d/1uZRrCjuw638JiI6uTM_9bO2qh55X4aU0CcIDGCAZnJk?usp=drive_fs'
 

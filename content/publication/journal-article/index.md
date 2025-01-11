@@ -2,8 +2,7 @@
 title: "Wash-Wush Application"
 authors:
 - admin
-- Adi Fajar Saputra
-- MAulani Citra Pandini
+- Maulani Citra Pandini
 - Nanda Zhafran Mahendra
 author_notes:
 - "Equal contribution"
@@ -29,7 +28,9 @@ abstract: wash-wush mobile aplication merupakan aplikasi berbasis mobile dengan 
 summary: wash-wush mobile aplication solusi kita untuk mempermudah mengakses tempat laundry, dengan fitur keren dan enak di lihat.
 
 tags:
-- Source Themes
+  - Teknologi Innovation  
+  - Mobile Aplication
+  - Laundry
 featured: false
 
 # links:
