@@ -31,7 +31,7 @@ tags:
 featured: true
 
 links:
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://drive.google.com/open?id=16Y9-jFzb1X_Vc74G8DihZkcX_nI1dDbk&usp=drive_fs
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
