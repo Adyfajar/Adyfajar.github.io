@@ -98,7 +98,7 @@ sections:
       text: ""
       filters: 
         folders: contact
-        exclude_featured: true
+        exclude_featured: false
     design:
       view: citation
       content:
