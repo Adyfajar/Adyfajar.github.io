@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Projects
+      text: Hello... ini adalah beberapa projek yang pernah saya buat selama beberapa tahun terakhir, anda sudah bisa melihatnya dengan meng klik projek yang ingin anda lihat.
       filters:
         folders:
           - project
