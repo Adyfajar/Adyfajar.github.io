@@ -15,11 +15,11 @@ tags:
   - Programing
   - Ethical Hacker
 ---
+<b> The Ethical Hacker-Bootcamp Cybersecurity </b> is a comprehensive program designed to equip students with the skills.
 
 
 {{< toc mobile_only=true is_open=true >}}
 
-<b> The Ethical Hacker-Bootcamp Cybersecurity </b> is a comprehensive program designed to equip students with the skills.
 
 ## Overview
   <b> Ethical Hacker-Bootcamp Cybersecurity </b> adalah program pelatihan intensif yang dirancang untuk membekali peserta dengan keterampilan dan pengetahuan mendalam di bidang keamanan siber. Program ini mencakup berbagai aspek penting, seperti:
