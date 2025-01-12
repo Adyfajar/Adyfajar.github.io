@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {2024} Adi fajar saputra {}'
+    notice: '© {2024} Adifajar'
     license:
       enable: true
       allow_derivatives: false
