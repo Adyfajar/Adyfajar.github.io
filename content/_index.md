@@ -21,7 +21,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: blue
+        color: black
         image:
           # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
@@ -95,9 +95,10 @@ sections:
     content:
       id: contact
       title: contact
-      text: ""
-      filters: 
-        folders: contact
+      text: "lorem "
+      filters:
+        folders:
+          - contact
         exclude_featured: false
     design:
       view: citation
@@ -109,5 +110,4 @@ sections:
       button:
         text: Download CV
         url: uploads/resume.png
-
 ---
