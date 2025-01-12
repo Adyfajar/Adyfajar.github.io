@@ -22,8 +22,7 @@ tags:
 <b> The Ethical Hacker-Bootcamp Cybersecurity </b> is a comprehensive program designed to equip students with the skills.
 
 ## Overview
-
-<b> Ethical Hacker-Bootcamp Cybersecurity </b> adalah program pelatihan intensif yang dirancang untuk membekali peserta dengan keterampilan dan pengetahuan mendalam di bidang keamanan siber. Program ini mencakup berbagai aspek penting, seperti:
+The <b> Ethical Hacker-Bootcamp Cybersecurity </b> adalah program pelatihan intensif yang dirancang untuk membekali peserta dengan keterampilan dan pengetahuan mendalam di bidang keamanan siber. Program ini mencakup berbagai aspek penting, seperti:
 
 - Pemahaman Keamanan Jaringan
   Peserta akan mempelajari cara menganalisis dan mengamankan jaringan dari ancaman siber, termasuk penggunaan alat dan teknik modern untuk mendeteksi serta mencegah serangan.
