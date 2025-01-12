@@ -1,13 +1,23 @@
 ---
-title: Contact
-cms_exclude: true
-#url: talk
-url: contact 
-# View
-view: card
+title: 'contact'
+date: 2024-05-19
+type: landing
 
-# Optional cover image (relative to `assets/media/` folder).
-image:
-  caption: ''
-  filename: ''
+design:
+  # Section spacing
+  spacing: '5rem'
+
+# Page sections
+sections:
+  - block: collection
+    content:
+      title: Projects
+      text: Hello... ini adalah beberapa projek yang pernah saya buat selama beberapa tahun terakhir, anda sudah bisa melihatnya dengan meng klik projek yang ingin anda lihat.
+      filters:
+        folders:
+          - project
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 3
 ---
