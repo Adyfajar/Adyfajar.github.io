@@ -34,8 +34,8 @@ header:
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
-    logo:
-      text: "Adi Fajar Saputra"
+    logo: 
+      text: {image\gambar 6.jpg}"Adi Fajar Saputra"
 
 # Site footer
 footer:
