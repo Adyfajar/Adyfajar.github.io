@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://drive.google.com/open?id=16ZM7Npgh-h5UtQywDMOiKyHXXw2VUM9l&usp=drive_fs
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
