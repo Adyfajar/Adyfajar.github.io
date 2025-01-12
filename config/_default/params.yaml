@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {2024} Me. This work is licensed under {license}'
+    notice: '© {2024} Adi fajar saputra {}'
     license:
       enable: true
       allow_derivatives: false
