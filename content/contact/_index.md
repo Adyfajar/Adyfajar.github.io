@@ -1,9 +1,24 @@
 ---
-# To publish author profile pages, remove all the `_build` and `cascade` settings below.
-_build:
-  render: never
-cascade:
-  _build:
-    render: never
-    list: always
+title: 'contact'
+date: 2024-05-19
+type: landing
+
+design:
+  # Section spacing
+  spacing: '5rem'
+
+# Page sections
+sections:
+  - block: collection
+    id: contact
+    content:
+      title: contact
+      text: contact me
+      filters:
+        folders:
+          - contact
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 1
 ---

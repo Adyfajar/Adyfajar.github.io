@@ -91,24 +91,27 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-  - block: collection
-    content:
-      id: contact
-      title: contact
-      text: ""
-      filters:
-        folders:
-          - contact
-        exclude_featured: false
-    design:
-      view: citation
-      content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: ""
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.png
+      title: 'contact'
+      date: 2024-05-19
+      type: landing
+
+      design:
+        # Section spacing
+        spacing: '5rem'
+
+      # Page sections
+      sections:
+        - block: collection
+          id: contact
+          content:
+            title: contact
+            text: contact me
+            filters:
+              folders:
+                - contact
+          design:
+            view: article-grid
+            fill_image: false
+            columns: 1
 
 ---
