@@ -19,9 +19,9 @@ sections:
         text: Download CV
         url: uploads/resume.png
     design:
-      css_class: blue
+      css_class: dark
       background:
-        color: blue
+        color: black
         image:
           # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
