@@ -1,5 +1,5 @@
 ---
-title: Ethical Hacker-Bootcamp Cybersecurity
+title: 🤖 Ethical Hacker-Bootcamp Cybersecurity
 date: 2024-08-01
 
 # Featured image
