@@ -91,8 +91,7 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-        
-    # contact
+   # contact
      - block: collection
       id: contact
       # Choose a user profile to display (a folder name within `content/authors/`)
