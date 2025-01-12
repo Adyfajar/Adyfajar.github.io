@@ -1,23 +1,9 @@
 ---
-title: 'contact'
-date: 2024-05-19
-type: landing
-
-design:
-  # Section spacing
-  spacing: '5rem'
-
-# Page sections
-sections:
-  - block: collection
-    content:
-      title: Projects
-      text: Hello... ini adalah beberapa projek yang pernah saya buat selama beberapa tahun terakhir, anda sudah bisa melihatnya dengan meng klik projek yang ingin anda lihat.
-      filters:
-        folders:
-          - project
-    design:
-      view: citation
-      fill_image: false
-      columns: 3
+# To publish author profile pages, remove all the `_build` and `cascade` settings below.
+_build:
+  render: never
+cascade:
+  _build:
+    render: never
+    list: always
 ---
