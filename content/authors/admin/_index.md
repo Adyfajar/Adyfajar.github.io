@@ -1,6 +1,6 @@
 ---
 # Display name
-title: adi dajar saputra
+title: adi fajar saputra
 
 # Full name (for SEO)
 first_name: adi fajar

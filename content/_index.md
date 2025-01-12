@@ -21,7 +21,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: black
+        color: blue
         image:
           # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
@@ -110,4 +110,7 @@ sections:
       button:
         text: Download CV
         url: uploads/resume.png
+        size: footer
+          position: center
+          parallax: false
 ---
