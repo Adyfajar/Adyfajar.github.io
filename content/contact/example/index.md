@@ -31,3 +31,5 @@ profiles:
     url: https://www.linkedin.com/adi-fajar-saputra
 
 ---
+## contact
+lorem ipsum dolor amer
