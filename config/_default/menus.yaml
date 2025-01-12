@@ -20,5 +20,6 @@ main:
     url: projects/
     weight: 30
   - name: Contact
-    url: Contact/
-    wight: 20
+    url: /#Contact
+    weight: 12
+

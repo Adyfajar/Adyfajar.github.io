@@ -2,7 +2,7 @@
 title: Contact
 cms_exclude: true
 #url: talk
-url: contact
+url: contact 
 # View
 view: card
 
