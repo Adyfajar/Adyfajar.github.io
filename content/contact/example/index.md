@@ -29,7 +29,4 @@ profiles:
     url: https://github.com/adyfajar
   - icon: brands/linkedin
     url: https://www.linkedin.com/adi-fajar-saputra
-
 ---
-## contact
-lorem ipsum dolor amer
