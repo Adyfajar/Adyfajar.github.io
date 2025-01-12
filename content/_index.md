@@ -96,10 +96,9 @@ sections:
       id: contact
       title: contact
       text: ""
-      filters:
+      filters: contact
         folders:
-          - contact
-        exclude_featured: false
+        exclude_featured: true
     design:
       view: citation
       content:
