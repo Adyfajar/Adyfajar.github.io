@@ -91,26 +91,15 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-   # contact
-     - block: collection
-      id: contact
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      title: Contact 
+  - block: collection
+    content:
+      title: contact
       text: ""
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.png
+      filters:
+        folders:
+          - contact
+        exclude_featured: false
     design:
-      css_class: dark
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+      view: citation
+   
 ---
