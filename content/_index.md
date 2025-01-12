@@ -110,7 +110,5 @@ sections:
       button:
         text: Download CV
         url: uploads/resume.png
-        size: footer
-          position: center
-          parallax: false
+
 ---
