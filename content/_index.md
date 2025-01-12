@@ -96,8 +96,8 @@ sections:
       id: contact
       title: contact
       text: ""
-      filters: contact
-        folders:
+      filters: 
+        folders: contact
         exclude_featured: true
     design:
       view: citation
