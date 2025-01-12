@@ -14,8 +14,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: ''
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -49,7 +49,7 @@ footer:
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: 'Jan 10, 2025'
   time_format: '3:04 PM'
 
 # Site features
