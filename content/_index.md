@@ -91,17 +91,5 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-  - block: collection
-    content:
-      id: contact
-      title: contact
-      text: "lorem "
-      filters:
-        folders:
-          - contact
-        exclude_featured: false
-    design:
-      view: citation
-      content: 
       
 ---
