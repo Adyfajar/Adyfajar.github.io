@@ -93,6 +93,7 @@ sections:
         padding: [0, 0, 0, 0]
   - block: collection
     content:
+      id: contact
       title: contact
       text: ""
       filters:
