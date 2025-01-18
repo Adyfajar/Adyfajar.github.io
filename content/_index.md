@@ -44,7 +44,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Publications
       filters:
         folders:
           - publication
@@ -54,7 +54,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications
       text: ""
       filters:
         folders:
@@ -65,7 +65,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: News
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
