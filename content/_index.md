@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: 'My Research'
+      title: ' My Research'
       subtitle: ''
       text: |-
         I am actively involved in the development of new innovations, Here are some of my main focuses:
@@ -44,7 +44,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Publications
+      title: Featured Publications
       filters:
         folders:
           - publication
@@ -54,7 +54,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Publications
+      title: Recent Publications
       text: ""
       filters:
         folders:
