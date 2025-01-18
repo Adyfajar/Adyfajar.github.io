@@ -5,7 +5,7 @@
 
 main:
   - name: About
-    url: /#About
+    url: /
     weight: 11
   - name: Experience
     url: experience/
