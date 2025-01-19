@@ -89,10 +89,10 @@ sections:
       # Choose a layout view
       view: date-title-summary
       # Reduce spacing
-      spacing: 0
+      spacing:
         padding: [0, 0, 0, 0]
     - block: collection
-    id: contact
+    id: talks
     content:
       title: Recent & Upcoming Talks
       filters:
