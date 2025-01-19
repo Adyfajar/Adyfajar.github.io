@@ -63,13 +63,6 @@ sections:
     design:
       view: citation
   - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-  - block: collection
     id: news
     content:
       title: News
@@ -96,6 +89,13 @@ sections:
       # Choose a layout view
       view: date-title-summary
       # Reduce spacing
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
       spacing:
         padding: [0, 0, 0, 0]
       
