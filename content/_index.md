@@ -91,5 +91,12 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+    - block: collection
+    id: contact
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
       
 ---
