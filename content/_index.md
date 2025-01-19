@@ -89,7 +89,7 @@ sections:
       # Choose a layout view
       view: date-title-summary
       # Reduce spacing
-      spacing:
+      spacing: 0
         padding: [0, 0, 0, 0]
     - block: collection
     id: contact
