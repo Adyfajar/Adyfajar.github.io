@@ -51,7 +51,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 1
   - block: collection
     content:
       title: Recent Publications
@@ -93,9 +93,6 @@ sections:
     id: talks
     content:
       title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
       # Display name
       title: adi fajar saputra
       # Full name (for SEO)
