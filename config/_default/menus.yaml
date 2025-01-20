@@ -19,6 +19,3 @@ main:
   - name: Projects
     url: projects/
     weight: 30
-  - name: contact
-    url: /#talks
-    weight: 30
