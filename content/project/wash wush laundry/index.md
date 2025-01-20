@@ -4,9 +4,6 @@ authors:
 - admin
 - Maulani Citra Pandini
 - Nanda Zhafran Mahendra
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
 date: "2023-06-01T00:00:00Z"
 doi: ""
 
