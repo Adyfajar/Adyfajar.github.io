@@ -1,4 +1,4 @@
 ---
-title: contact
+title: talk
 type: landing
 ---
