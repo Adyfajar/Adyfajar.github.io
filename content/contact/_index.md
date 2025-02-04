@@ -1,4 +1,0 @@
----
-title: talk
-type: landing
----
