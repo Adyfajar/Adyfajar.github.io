@@ -42,8 +42,7 @@ Ini adalah proyek personal blog yang dirancang untuk berbagi pemikiran, ide, dan
 ├── hugoblox.yaml
 ├── LICENSE.md
 ├── netlify.toml
-├── README.md
-      
+├── README.md  
 ```
 
 ## Kontak
