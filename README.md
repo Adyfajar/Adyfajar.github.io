@@ -6,10 +6,12 @@ Ini adalah proyek personal blog yang dirancang untuk berbagi pemikiran, ide, dan
 ## Fitur
 - Tampilan responsif untuk berbagai perangkat
 - Navigasi yang mudah digunakan
+```
       ├── About    
       ├── papers
       ├── experience
       ├── projects
+```
 
 ## Teknologi yang Digunakan
 - HTML
